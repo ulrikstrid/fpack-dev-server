@@ -1,0 +1,22 @@
+{
+  "name": "fpack-dev-server",
+  "version": "1.0.0",
+  "description": "testing how to create a dev server for fpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "fpack",
+    "devserver"
+  ],
+  "author": "Ulrik Strid",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
+}
